@@ -64,7 +64,7 @@ This policy restricts access so users must be connecting from a trusted location
 - Locations: Trusted IP ranges (Headquarters)
 - Policy Mode: Report-only
 
-![Location Policy Overview](./05-location-policy-overview.png)
+
 ![Named Location](./06-named-location.png)
 ---
 
