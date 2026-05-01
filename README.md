@@ -61,7 +61,7 @@ This policy restricts access so users must be connecting from a trusted location
 - Policy Mode: Report-only
 
 ![Location Policy Overview](./screenshots/05-location-policy-overview.png)
-![Named Location](./screenshots/06-named-location.png)
+
 
 ---
 
