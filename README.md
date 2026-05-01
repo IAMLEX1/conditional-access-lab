@@ -13,6 +13,9 @@ This project demonstrates how Conditional Access policies are used to secure use
 
 ---
 
+
+
+
 ## Policy 1: MFA Enforcement (Finance)
 
 **Description:**  
@@ -26,6 +29,7 @@ This policy enforces Multi-Factor Authentication (MFA) for users in the Finance 
 
 ![MFA Policy Overview](./screenshots/01-mfa-policy-overview.png)
 ![MFA Grant Control](./screenshots/02-mfa-grant-control.png)
+
 ---
 
 ## Policy 2: Require Compliant Device (Finance)
@@ -43,6 +47,7 @@ This policy ensures that only compliant (managed and secure) devices can access 
 
 ![Device Policy Overview](./screenshots/03-device-policy-overview.png)
 ![Device Grant Control](./screenshots/04-device-grant-control.png)
+
 ---
 
 ## Policy 3: Location-Based Access Control (Finance)
