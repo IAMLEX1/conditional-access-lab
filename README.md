@@ -24,8 +24,8 @@ This policy enforces Multi-Factor Authentication (MFA) for users in the Finance 
 - Grant Control: Require MFA
 - Policy Mode: Report-only
 
-![MFA Policy Overview](./screenshots/01-mfa-policy-overview.png)  
-![MFA Grant Control](./screenshots/02-mfa-grant-control.png)
+![MFA Policy Overview](./screenshots/...)01-mfa-policy-overview.png)  
+![MFA Grant Control](./screenshots/...)02-mfa-grant-control.png)
 
 ---
 
@@ -41,8 +41,8 @@ This policy ensures that only compliant (managed and secure) devices can access 
   - Require device to be marked as compliant
 - Policy Mode: Report-only
 
-![Device Policy Overview](./screenshots/03-device-policy-overview.png)  
-![Device Grant Control](./screenshots/04-device-grant-control.png)
+![Device Policy Overview](./screenshots/...)03-device-policy-overview.png)  
+![Device Grant Control](./screenshots/...)04-device-grant-control.png)
 
 ---
 
@@ -56,8 +56,8 @@ This policy restricts access so users must be connecting from a trusted location
 - Locations: Trusted IP ranges (Headquarters)
 - Policy Mode: Report-only
 
-![Location Policy Overview](./screenshots/05-location-policy-overview.png)  
-![Named Location](./screenshots/06-named-location.png)
+![Location Policy Overview](./...)screenshots/05-location-policy-overview.png)  
+![Named Location](./screenshots/...)06-named-location.png)
 
 ---
 
